@@ -1,6 +1,5 @@
-streamlit==1.51.0
+streamlit
 pandas
-numpy
-scikit-learn==1.9.0
 joblib
-pyarrow==18.1.0
+scikit-learn==1.9.0
+pyarrow
